@@ -1,0 +1,11 @@
+create signup/ login view
+axios post to arbitrary endpoint, that sends username/ password, for auth
+responds with a bearer token
+hapi auth
+
+
+x-axis time 
+
+
+
+toast, rivian, 
